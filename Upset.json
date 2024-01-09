@@ -6,10 +6,10 @@
 	"skip": 0,
 
 	"meta": [
-		{ "type": "id", "index": 0, "name": "visitorID" }
+		{ "type": "id", "index": 0, "name": "visitor" }
 	],
 
 	"sets": [
-		{ "format": "binary", "start": 1, "end": 3 }
+		{ "format": "binary", "start": 2, "end": 3 }
 	]
 }
