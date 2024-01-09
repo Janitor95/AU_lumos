@@ -2,6 +2,6 @@
 	"file": "https://github.com/Janitor95/AU_lumos/raw/main/pbmads_2.csv",
 	"name": "pbmads",
 	"header": 0,
-	"separator": ";",
+	"separator": ",",
 	"skip": 0,
 }
