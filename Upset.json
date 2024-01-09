@@ -4,4 +4,8 @@
 	"header": 0,
 	"separator": ",",
 	"skip": 0,
+
+	"sets": [
+		{ "format": "binary", "start": 2, "end": 8 }
+	]
 }
