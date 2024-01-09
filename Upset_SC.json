@@ -1,7 +1,15 @@
 {
-	"file": "https://github.com/Janitor95/AU_lumos/raw/main/pbmads_2.csv",
+	"file": "https://github.com/Janitor95/AU_lumos/raw/main/pbmads_2_SC.csv",
 	"name": "pbmads",
 	"header": 0,
 	"separator": ";",
 	"skip": 0,
+
+	"meta": [
+		{ "type": "id", "index": 0, "name": "visitorID" }
+	],
+
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 8 }
+	]
 }
